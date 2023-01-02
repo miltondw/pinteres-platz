@@ -8,7 +8,7 @@
 
 - VITE
 - REACTJS
-- SASS modular
+- TailwindCSS
 
 ### Deploy
 
